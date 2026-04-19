@@ -15,7 +15,7 @@ B.Sc. (Hons), Marine Environmental Chemistry, Xiamen University Malaysia, 2022�
 GPA: 3.67/4.0.
 
 #### CV
-📄 [Download CV](static/assets/CV.pdf)
+📄 [Download CV](/static/assets/CV.pdf)
 
 #### Research Interests
 Data-Driven Systems Modeling; Computational Analysis of Complex Systems; Software Engineering for Scientific and Environmental Applications; Hydrodynamic and Ocean Systems.
