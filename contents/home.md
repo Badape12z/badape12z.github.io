@@ -6,8 +6,8 @@ He is currently pursuing a B.Sc. in Marine Science at Xiamen University Malaysia
 
 #### Contact
 
-Email: MEC2209483[at]xmu.edu.my
-Email: hxwz12[at]126.com
+**Email:** MEC2209483[at]xmu.edu.my  
+**Email:** hxwz12[at]126.com
 
 #### Education
 M.Eng., Systems Engineering, Cornell University, 2026–2027 (incoming).\
