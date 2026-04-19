@@ -1,17 +1,19 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Badape12z](https://img.shields.io/badge/Badape12z-github-blue?logo=github)](https://github.com/Badape12z)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently pursuing a B.Sc. in Marine Science at Xiamen University Malaysia and will join Cornell University as an incoming M.Eng. student in Systems Engineering.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: MEC2209483[at]xmu.edu.my
+Email: hxwz12[at]126.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.Eng., Systems Engineering, Cornell University, 2026–2027 (incoming).\
+B.Sc. (Hons), Marine Environmental Chemistry, Xiamen University Malaysia, 2022–2026.\
+GPA: 3.67/4.0.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Data-Driven Systems Modeling; Computational Analysis of Complex Systems; Software Engineering for Scientific and Environmental Applications; Hydrodynamic and Ocean Systems.
 

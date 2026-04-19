@@ -1,12 +1,8 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- First-Prize Distinction Awards (XMUMT), 2023 & 2024 & 2025.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+-  Dean's List Scholarship (XMUM), 2025.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+-  R/V TKK Undergraduate Research Funding (XMU), 2025.
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
